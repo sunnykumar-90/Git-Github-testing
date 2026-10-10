@@ -1,0 +1,39 @@
+git config --global user.name "sunnykumar-90"
+
+git config --global user.email "sunnykumar.shp@gmail.com"
+
+git config --list 
+
+
+
+git init
+
+git add app.html 
+git add .
+
+git git commit -m "H2 Tag Done"
+
+git branch -M main
+
+git remote add origin https://github.com/sunnykumar-90/Git-Github-testing.git  *adding in Remote Repo*
+
+git push -u origin main
+
+--------------------------
+
+* Repository = storage location of code and its history Maintain  
+	local repo = its stored in our system where can code comments
+	remote/global Repo = it is stored in Hosting platforms like GitHub, to share code with other so team can view code and changes
+
+* working Directory = where we code save oy files Example Folder in Desktop
+
+
+* Git workflow
+                  git add             git commit            git push 
+working Directory -----> staging area ---------> local Repo --------> Remote Repo
+                   
+      
+
+
+
+
