@@ -8,16 +8,18 @@ git config --list
 
 git init {Add git file in workspace}
 
-git add app.html {to Track changes in local Repo specific file}
-git add .        {to Track changes in local Repo all files} 
+git add app.html {to Track changes in local Repo specific file} staging area
+git add .        {to Track changes in local Repo all files} staging area
 
-git git commit -m "H2 Tag Done"
+git git commit -m "H2 Tag Done"  { finalized changes} saved in local repo 
 
-git branch -M main
+git branch -M main { change branches to main}
 
-git remote add origin https://github.com/sunnykumar-90/Git-Github-testing.git  *adding in Remote Repo*
+git remote add origin https://github.com/sunnykumar-90/Git-Github-testing.git  {adding in Remote Repo} in which repo changes saved
 
-git push -u origin main
+git push -u origin main { saved changes in remote repo}
+
+git push { once -u main done after that only git push}
 
 --------------------------
 
