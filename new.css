@@ -1,5 +1,7 @@
-h2,h1 {
+h2 {
     color: lightskyblue;
 }
+
+h1{color: purple;}
 
 p{ color: green;}
