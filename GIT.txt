@@ -6,10 +6,10 @@ git config --list
 
 
 
-git init
+git init {Add git file in workspace}
 
-git add app.html 
-git add .
+git add app.html {to Track changes in local Repo specific file}
+git add .        {to Track changes in local Repo all files} 
 
 git git commit -m "H2 Tag Done"
 
