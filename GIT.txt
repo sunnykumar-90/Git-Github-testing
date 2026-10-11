@@ -11,7 +11,7 @@ git init {Add git file in workspace}
 git add app.html {to Track changes in local Repo specific file} staging area
 git add .        {to Track changes in local Repo all files} staging area
 
-git git commit -m "H2 Tag Done"  { finalized changes} saved in local repo 
+git commit -m "H2 Tag Done"  { finalized changes} saved in local repo 
 
 git branch -M main { change branches to main}
 
